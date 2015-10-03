@@ -6,12 +6,12 @@ url: "http://www.danielaherne.xyz" # the base hostname & protocol for your site
 # User settings
 username: Daniel Aherne
 user_description: 
-user_title: Anon Developer
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
-disqus_username: lorem_ipsum
+user_title: Games Developer
+email: danielkeithaherne@gmail.com
+twitter_username: danielaherne
+github_username:  frossdelaqrois
+gplus_username:  
+disqus_username: 
 
 # Build settings
 markdown: kramdown
