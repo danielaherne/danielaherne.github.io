@@ -1,7 +1,7 @@
 # Site settings
 description: A blog about lorem ipsum dolor sit amet
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://www.danielaherne.xyz" # the base hostname & protocol for your site 
+url: "http://danielaherne.xyz" # the base hostname & protocol for your site 
 
 # User settings
 username: Daniel Aherne
